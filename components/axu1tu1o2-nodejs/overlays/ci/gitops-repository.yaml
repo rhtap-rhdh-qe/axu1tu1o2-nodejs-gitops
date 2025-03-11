@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: axu1tu1o2-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/axu1tu1o2-nodejs-gitops
